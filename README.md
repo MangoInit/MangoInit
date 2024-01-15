@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MangoInit
+- 👋 Hi, I’m @SimpleMango
 - 👀 I’m interested in Robotics, Iot, software engineering.
 
 <!---
